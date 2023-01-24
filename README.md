@@ -20,6 +20,6 @@
 
 # Link to the deployed application (heroku):
 
-## https://talkio.herokuapp.com/
+## https://whispering-thicket-23231.herokuapp.com/
 
 
